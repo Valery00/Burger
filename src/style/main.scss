@@ -1,0 +1,17 @@
+//-config
+@import "config/_mixins";
+@import "config/_variables";
+
+//-layout
+@import "layout/_base";
+@import "layout/_adjustment";
+@import "layout/_fonts";
+
+//-section 
+@import "section/_header";
+@import "section/_best";
+@import "section/_hero";
+@import "section/_coments";
+
+//-sprite
+@import "_sprite";
