@@ -4,7 +4,7 @@ body {
   font-size: 16px;
   font-family: 'Ubuntu', Arial, Helvetica, sans-serif;
   line-height: 1.42;
-  color: #2f3234;
+  color: #2f3234; 
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale; }
 
@@ -74,7 +74,7 @@ ul {
   src: url("../fonts/Gagalin.woff2") format("woff2");
   font-weight: 400;
   font-style: normal; }
-
+ 
 @font-face {
   font-family: 'lifehackmedium';
   src: url("../fonts/deartype_-_lifehack_medium-webfont.woff2") format("woff2");
