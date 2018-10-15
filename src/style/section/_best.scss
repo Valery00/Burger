@@ -3,11 +3,19 @@
     background-repeat: no-repeat;
     background-position: 50%;
     position: relative;
-    background-size: cover;
+    background-size: cover;    
 }
 .section__title--best {
     color: $dark;
     padding: 0;
+}
+.best__elem {
+    display: flex;
+    flex-flow: column wrap;
+    width: 290px;
+    text-align: center;
+    
+
 }
 .best__elem-img {
     width: 97px;
@@ -32,4 +40,8 @@
     font-size: 14px;
     font-weight: 300;
     line-height: 24.07px
+}
+.best__elements {
+    display: flex;
+    flex-flow: row nowrap;  
 }
